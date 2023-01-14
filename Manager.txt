@@ -1,0 +1,4 @@
+Class Manager{
+public:
+	Manager();
+};
